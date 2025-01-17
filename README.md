@@ -1,6 +1,6 @@
-# GamifiedToDo
+# TaskQuest
 
-**GamifiedToDo** is a fun and interactive task management app that rewards productivity with in-app coins. Use these coins to customize your avatar and unlock exciting new parts.
+**TaskQuest** is a fun and interactive task management app that rewards productivity with in-app coins. Use these coins to customize your avatar and unlock exciting new parts.
 
 ---
 
