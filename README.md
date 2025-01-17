@@ -1,26 +1,40 @@
 # GamifiedToDo
 
-User's manual
+**GamifiedToDo** is a fun and interactive task management app that rewards productivity with in-app coins. Use these coins to customize your avatar and unlock exciting new parts.
 
-This is a single user app.  The user has an avatar, a list of todos and coins.   When user finishes todos on time, he/she earns coins, then the coins can be used to get avatar parts.  If the user has enough coins to get a certain avatar part, the user can change his/her avatar.  Some avatar part requires high amount of coins, when not enough coins to redeem it, the avatar part is locked -- user can see it but can't use it as its avatar.
+---
 
-On the main page:
-0. Once you enter the app, you are presented with a list of todos.  The color of each todo represents its difficulty level. Click on any todo to enter ToDo Details screen,  from there you can easily tell the color representation. 
-1. To deletee a todo -- on the main page, swipe any todo to delete it.
-2. To edit a todo -- on the main page, click on any of todos, then you will be in ToDo details page,  if you want to save the chagnes, click "Save" button.  To return back to the main page without saving, click "Back" button. 
-3. To add a new todo -- on the main page click on the top right "+" button to add a new todo.  When you are satisfied with your content, click "Add" button to it.  If you click on "Back" button, the new todo will NOT be saved.
+## App Overview
 
-On the ToDo Details page:
-You arrive at this page either by editing an existing todo or by clicking "+" to add a new todo.   The "Add"/"Save" button is disabled unless you put in its Title.  The rest fields are optional.  You can add a checklist item to your todo, it helps to divide a big todo to smaller tasks.
+- **To-Do Management**: Create, edit, and track tasks with ease.
+- **Reward System**: Earn coins by completing tasks on time, based on their difficulty.
+- **Avatar Customization**: Use earned coins to unlock and equip new avatar parts.
 
-How to earn coin:
-If you complete a todo before due date, based on difficulty level, you earn coins.  Easy todo earns 1 coin, Medium todo earns 3 coins, Hard todo earns 5 coins.
-if your todo is overdue, no coin is earned regardless if the todo is completed later or not. 
+---
 
-How to use coins to exchange avatar part:
-Click on "Award" tab to go to Avatar page.  It shows user's existing avatar and available coins.  It also shows the library of all avatar parts with corresponding coins to get it.  For those avatar parts too expensive for the user, the part is grayed out and disabled.  Only when user earns enough coin, those avatar part will be available for selection. 
+## Key Features
 
+### 1. Task Management
+- Add tasks by clicking the **"+"** button on the main page.
+- Edit tasks by tapping on them and saving changes.
+- Delete tasks by swiping them on the main page.
+- Tasks are color-coded by difficulty:
+  - **Easy**: Green
+  - **Medium**: Yellow
+  - **Hard**: Red
 
-https://github.com/axruan/GamifiedToDoList/assets/42079946/9039395f-cb57-4619-8cb5-955979813d13
+### 2. Coin Rewards
+- Earn coins for completing tasks before their due date:
+  - **Easy**: 1 coin
+  - **Medium**: 3 coins
+  - **Hard**: 5 coins
+- Overdue tasks earn no coins, even if completed later.
 
+### 3. Avatar Customization
+- Access the **"Award"** tab to view and update your avatar.
+- Use coins to unlock new avatar parts.
+- Locked parts are grayed out and become available when you earn enough coins.
 
+---
+
+Stay productive and have fun customizing your avatar with **GamifiedToDo**!
