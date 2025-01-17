@@ -42,8 +42,6 @@ Stay productive and have fun customizing your avatar with **GamifiedToDo**!
 
 ## Demo
 
-## Demo
-
 [Watch the Demo on YouTube](https://youtube.com/shorts/6ufb-aAveg0)
 
 
