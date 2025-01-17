@@ -42,7 +42,12 @@ Stay productive and have fun customizing your avatar with **GamifiedToDo**!
 
 ## Demo
 
-<video src="assets/preview.mp4" controls="controls" style="max-width: 100%; height: auto;">
-    Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" 
+        src="https://youtube.com/shorts/6ufb-aAveg0" 
+        title="TaskQuest Demo" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
 
