@@ -39,4 +39,10 @@
 
 Stay productive and have fun customizing your avatar with **GamifiedToDo**!
 
-https://github.com/axruan/GamifiedToDoList/assets/42079946/9039395f-cb57-4619-8cb5-955979813d13
+
+## Demo
+
+<video src="assets/preview.mp4" controls="controls" style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+</video>
+
