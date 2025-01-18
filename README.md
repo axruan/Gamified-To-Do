@@ -37,7 +37,7 @@
 
 ---
 
-Stay productive and have fun customizing your avatar with **GamifiedToDo**!
+Stay productive and have fun customizing your avatar with **TaskQuest**!
 
 
 ## Demo
